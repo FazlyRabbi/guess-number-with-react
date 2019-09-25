@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+
+.container {
+  padding: 30px;
+
+  font-size:40px;
+}
+.winingMsg {
+  font-size: 15px;
+  background: #f8b305;
+  padding: 5px;
+  width: 300px;
+  text-align: center;
+   font-weight: bold;
+
+}
+
+.winingScore {
+  font-size:20px;
+ 
+}
+
+.msg{
+  margin-bottom:50px;
+}
+
+/*# sourceMappingURL=/style.78032849.css.map */
